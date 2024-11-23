@@ -1,0 +1,9 @@
+name: FichaTipo
+main: com.example.fichatipo.FichaTipo
+version: 1.0
+api-version: 1.16
+commands:
+  tipo:
+    description: Команды для управления ивентом Тыпо
+    usage: /<command>
+    permission: tipo.admin
